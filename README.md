@@ -51,4 +51,6 @@ The filter functionality allows you to search for specific blog posts by title.
 
 The project uses TypeScript for type checking and enhanced code quality
 
+Deployed on netlify
 
+https://blogpostsapi.netlify.app/
